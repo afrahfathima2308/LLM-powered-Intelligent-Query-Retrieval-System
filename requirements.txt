@@ -1,0 +1,13 @@
+streamlit
+python-docx
+PyMuPDF
+mail-parser
+faiss-cpu
+openai
+python-dotenv
+tqdm
+requests
+fastapi
+uvicorn
+python-multipart
+pyngrok
